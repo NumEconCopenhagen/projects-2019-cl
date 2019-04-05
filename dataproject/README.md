@@ -4,8 +4,8 @@ In this project, we extract data of criminal offences in Denmark from Statistics
 
 ### Prerequisites:
 In the project we construct a choropleth using a shape file containing geographical data of Danish municipalities. To do this, you have to install geopandas. Installing geopandas can be cumbersome on windows, however, we succeeded when following the instructions on:
-https://geoffboeing.com/2014/09/using-geopandas-windows/
-and
-https://www.researchgate.net/post/How_to_easily_install_GDAL_using_Python_pip2  
+<br> https://geoffboeing.com/2014/09/using-geopandas-windows/
+<br> and
+<br> https://www.researchgate.net/post/How_to_easily_install_GDAL_using_Python_pip2  
 
 Should contain a short introduction to your project, and show how to produce your results.
