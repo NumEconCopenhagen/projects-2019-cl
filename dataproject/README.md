@@ -8,4 +8,3 @@ In the project we construct a choropleth using a shape file containing geographi
 <br> and
 <br> https://www.researchgate.net/post/How_to_easily_install_GDAL_using_Python_pip2  
 
-Should contain a short introduction to your project, and show how to produce your results.
