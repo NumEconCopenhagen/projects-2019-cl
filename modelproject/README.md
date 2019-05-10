@@ -1,3 +1,9 @@
 # Modelproject
 
-Should contain a short introduction to your project, and show how to produce your results.
+In this model project, we present the koopmans model, also known as the Robinson Crusoe Economy. The model is analyzed and solved using sympy.
+
+We first optimize within the production market by maximizing the reduced problem - plugging the constraint into the profit function. We then optimize within the consumption market using sympy's version of a lagrange constrained optimizer. 
+
+The optimal wage as a function of the consumption price is found and we show that markets clear with supply and demand equalized of both labor and the consumption good.
+
+The solution is visualized.
